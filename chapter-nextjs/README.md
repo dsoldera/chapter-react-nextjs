@@ -1,4 +1,4 @@
-#NEXTJS PROJECT
+# NEXTJS PROJECT
 
 ### To start run 
 
